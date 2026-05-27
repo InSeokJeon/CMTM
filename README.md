@@ -179,4 +179,4 @@ This repository builds upon prior research in unsupervised video object segmenta
 If you have any questions about the code or the paper, please feel free to contact:
 
 **InSeok Jeon**  
-Email: sunlight3919@gmail.com
+Email: sunlight3919@yonsei.ac.kr
